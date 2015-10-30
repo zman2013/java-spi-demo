@@ -1,4 +1,6 @@
-package tutorial.jdk.spi;
+package tutorial.jdk.spi.provider;
+
+import tutorial.jdk.spi.Encryption;
 
 /**
  * 遍历所有字节，对所有字节+1。

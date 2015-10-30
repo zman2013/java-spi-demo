@@ -1,4 +1,6 @@
-package tutorial.jdk.spi;
+package tutorial.jdk.spi.provider;
+
+import tutorial.jdk.spi.Encryption;
 
 /**
  * 翻转算法
